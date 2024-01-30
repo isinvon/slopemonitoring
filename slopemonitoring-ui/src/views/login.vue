@@ -72,8 +72,8 @@ export default {
     return {
       codeUrl: "",
       loginForm: {
-        // username: "admin",
-        // password: "admin123",
+        username: "admin",
+        password: "admin123",
         rememberMe: false,
         code: "",
         uuid: ""
@@ -125,6 +125,7 @@ export default {
         username: username === undefined ? this.loginForm.username : username,
         password: password === undefined ? this.loginForm.password : decrypt(password),
         rememberMe: rememberMe === undefined ? false : Boolean(rememberMe)
+        
       };
     },
     handleLogin() {

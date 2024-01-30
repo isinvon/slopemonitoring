@@ -35,6 +35,7 @@ router.beforeEach((to, from, next) => {
             store.dispatch('LogOut').then(() => {
               Message.error(err)
               next({ path: '/' })
+              
             })
           })
       } else {
