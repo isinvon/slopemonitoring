@@ -18,7 +18,7 @@ import com.slopemonitoring.framework.interceptor.RepeatSubmitInterceptor;
 /**
  * 通用配置
  * 
- * @author isinvon
+ * @author sinvon
  */
 @Configuration
 public class ResourcesConfig implements WebMvcConfigurer

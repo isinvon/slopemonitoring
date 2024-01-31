@@ -10,7 +10,7 @@ import com.slopemonitoring.common.xss.Xss;
 /**
  * 通知公告表 sys_notice
  * 
- * @author isinvon
+ * @author sinvon
  */
 public class SysNotice extends BaseEntity
 {

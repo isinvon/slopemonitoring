@@ -23,7 +23,7 @@ import com.slopemonitoring.system.service.ISysConfigService;
 /**
  * 验证码操作处理
  * 
- * @author isinvon
+ * @author sinvon
  */
 @RestController
 public class CaptchaController

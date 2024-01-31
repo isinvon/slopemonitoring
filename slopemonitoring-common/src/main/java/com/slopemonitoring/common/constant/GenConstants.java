@@ -3,7 +3,7 @@ package com.slopemonitoring.common.constant;
 /**
  * 代码生成通用常量
  * 
- * @author isinvon
+ * @author sinvon
  */
 public class GenConstants
 {

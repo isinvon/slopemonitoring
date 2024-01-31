@@ -11,7 +11,7 @@ import com.slopemonitoring.system.service.ISysDictDataService;
 /**
  * 字典 业务层处理
  * 
- * @author isinvon
+ * @author sinvon
  */
 @Service
 public class SysDictDataServiceImpl implements ISysDictDataService

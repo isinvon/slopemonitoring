@@ -3,7 +3,7 @@ package com.slopemonitoring.common.enums;
 /**
  * 业务操作类型
  * 
- * @author isinvon
+ * @author sinvon
  */
 public enum BusinessType
 {

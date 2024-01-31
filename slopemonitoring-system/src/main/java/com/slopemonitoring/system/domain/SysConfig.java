@@ -11,7 +11,7 @@ import com.slopemonitoring.common.core.domain.BaseEntity;
 /**
  * 参数配置表 sys_config
  * 
- * @author isinvon
+ * @author sinvon
  */
 public class SysConfig extends BaseEntity
 {

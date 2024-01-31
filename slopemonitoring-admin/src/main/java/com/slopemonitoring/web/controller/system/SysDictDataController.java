@@ -28,7 +28,7 @@ import com.slopemonitoring.system.service.ISysDictTypeService;
 /**
  * 数据字典信息
  * 
- * @author isinvon
+ * @author sinvon
  */
 @RestController
 @RequestMapping("/system/dict/data")

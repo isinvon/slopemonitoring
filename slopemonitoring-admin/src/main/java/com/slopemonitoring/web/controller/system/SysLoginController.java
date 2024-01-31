@@ -20,7 +20,7 @@ import com.slopemonitoring.system.service.ISysMenuService;
 /**
  * 登录验证
  * 
- * @author isinvon
+ * @author sinvon
  */
 @RestController
 public class SysLoginController

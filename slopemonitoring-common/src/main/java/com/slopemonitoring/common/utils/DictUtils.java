@@ -11,7 +11,7 @@ import com.slopemonitoring.common.utils.spring.SpringUtils;
 /**
  * 字典工具类
  * 
- * @author isinvon
+ * @author sinvon
  */
 public class DictUtils
 {

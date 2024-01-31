@@ -3,7 +3,7 @@ package com.slopemonitoring.common.exception;
 /**
  * 业务异常
  * 
- * @author isinvon
+ * @author sinvon
  */
 public final class ServiceException extends RuntimeException
 {

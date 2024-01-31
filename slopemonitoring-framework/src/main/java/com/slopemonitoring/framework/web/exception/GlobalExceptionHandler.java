@@ -20,7 +20,7 @@ import com.slopemonitoring.common.utils.StringUtils;
 /**
  * 全局异常处理器
  * 
- * @author isinvon
+ * @author sinvon
  */
 @RestControllerAdvice
 public class GlobalExceptionHandler

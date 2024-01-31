@@ -6,7 +6,7 @@ import com.slopemonitoring.generator.domain.GenTableColumn;
 /**
  * 业务字段 服务层
  * 
- * @author isinvon
+ * @author sinvon
  */
 public interface IGenTableColumnService
 {

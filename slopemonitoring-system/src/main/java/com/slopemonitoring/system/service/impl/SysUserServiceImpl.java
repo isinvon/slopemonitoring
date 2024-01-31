@@ -33,7 +33,7 @@ import com.slopemonitoring.system.service.ISysUserService;
 /**
  * 用户 业务层处理
  * 
- * @author isinvon
+ * @author sinvon
  */
 @Service
 public class SysUserServiceImpl implements ISysUserService

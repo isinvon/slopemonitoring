@@ -27,7 +27,7 @@ import com.slopemonitoring.framework.datasource.DynamicDataSource;
 /**
  * druid 配置多数据源
  * 
- * @author isinvon
+ * @author sinvon
  */
 @Configuration
 public class DruidConfig

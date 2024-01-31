@@ -9,7 +9,7 @@ import com.slopemonitoring.common.utils.StringUtils;
 /**
  * 获取IP方法
  * 
- * @author isinvon
+ * @author sinvon
  */
 public class IpUtils
 {

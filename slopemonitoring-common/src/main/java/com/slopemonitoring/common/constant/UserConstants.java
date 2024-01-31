@@ -3,7 +3,7 @@ package com.slopemonitoring.common.constant;
 /**
  * 用户常量信息
  * 
- * @author isinvon
+ * @author sinvon
  */
 public class UserConstants
 {

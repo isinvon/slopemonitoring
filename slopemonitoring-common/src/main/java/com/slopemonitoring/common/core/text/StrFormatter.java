@@ -5,7 +5,7 @@ import com.slopemonitoring.common.utils.StringUtils;
 /**
  * 字符串格式化
  * 
- * @author isinvon
+ * @author sinvon
  */
 public class StrFormatter
 {

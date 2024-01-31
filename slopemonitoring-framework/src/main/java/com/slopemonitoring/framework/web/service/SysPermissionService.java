@@ -14,7 +14,7 @@ import com.slopemonitoring.system.service.ISysRoleService;
 /**
  * 用户权限处理
  * 
- * @author isinvon
+ * @author sinvon
  */
 @Component
 public class SysPermissionService

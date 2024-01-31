@@ -25,7 +25,7 @@ import com.slopemonitoring.system.service.ISysDeptService;
 /**
  * 部门信息
  * 
- * @author isinvon
+ * @author sinvon
  */
 @RestController
 @RequestMapping("/system/dept")

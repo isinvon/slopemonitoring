@@ -7,7 +7,7 @@ import com.slopemonitoring.common.core.domain.entity.SysUser;
 /**
  * 用户表 数据层
  * 
- * @author isinvon
+ * @author sinvon
  */
 public interface SysUserMapper
 {

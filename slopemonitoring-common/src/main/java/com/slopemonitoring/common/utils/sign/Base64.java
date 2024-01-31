@@ -3,7 +3,7 @@ package com.slopemonitoring.common.utils.sign;
 /**
  * Base64工具类
  * 
- * @author isinvon
+ * @author sinvon
  */
 public final class Base64
 {

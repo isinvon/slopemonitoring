@@ -3,7 +3,7 @@ package com.slopemonitoring.common.exception;
 /**
  * 演示模式异常
  * 
- * @author isinvon
+ * @author sinvon
  */
 public class DemoModeException extends RuntimeException
 {

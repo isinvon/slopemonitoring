@@ -5,7 +5,7 @@ import com.slopemonitoring.common.utils.Arith;
 /**
  * CPU相关信息
  * 
- * @author isinvon
+ * @author sinvon
  */
 public class Cpu
 {

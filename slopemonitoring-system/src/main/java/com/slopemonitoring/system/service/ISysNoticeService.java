@@ -6,7 +6,7 @@ import com.slopemonitoring.system.domain.SysNotice;
 /**
  * 公告 服务层
  * 
- * @author isinvon
+ * @author sinvon
  */
 public interface ISysNoticeService
 {

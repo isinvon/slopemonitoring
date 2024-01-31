@@ -24,7 +24,7 @@ import com.slopemonitoring.framework.config.ServerConfig;
 /**
  * 通用请求处理
  * 
- * @author isinvon
+ * @author sinvon
  */
 @RestController
 @RequestMapping("/common")

@@ -23,7 +23,7 @@ import com.slopemonitoring.system.service.ISysLogininforService;
 /**
  * 系统访问记录
  * 
- * @author isinvon
+ * @author sinvon
  */
 @RestController
 @RequestMapping("/monitor/logininfor")

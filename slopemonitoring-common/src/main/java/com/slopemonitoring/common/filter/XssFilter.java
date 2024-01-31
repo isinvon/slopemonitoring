@@ -17,7 +17,7 @@ import com.slopemonitoring.common.enums.HttpMethod;
 /**
  * 防止XSS攻击的过滤器
  * 
- * @author isinvon
+ * @author sinvon
  */
 public class XssFilter implements Filter
 {

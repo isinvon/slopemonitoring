@@ -6,7 +6,7 @@ import com.slopemonitoring.common.core.domain.entity.SysUser;
 /**
  * 用户 业务层
  * 
- * @author isinvon
+ * @author sinvon
  */
 public interface ISysUserService
 {

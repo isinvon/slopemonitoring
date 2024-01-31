@@ -16,7 +16,7 @@ import com.slopemonitoring.generator.domain.GenTableColumn;
 /**
  * 模板处理工具类
  * 
- * @author isinvon
+ * @author sinvon
  */
 public class VelocityUtils
 {

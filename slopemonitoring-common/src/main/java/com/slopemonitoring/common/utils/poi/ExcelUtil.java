@@ -88,7 +88,7 @@ import com.slopemonitoring.common.utils.reflect.ReflectUtils;
 /**
  * Excel相关处理
  * 
- * @author isinvon
+ * @author sinvon
  */
 public class ExcelUtil<T>
 {

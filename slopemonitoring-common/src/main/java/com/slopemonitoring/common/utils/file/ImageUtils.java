@@ -16,7 +16,7 @@ import com.slopemonitoring.common.utils.StringUtils;
 /**
  * 图片处理工具类
  *
- * @author isinvon
+ * @author sinvon
  */
 public class ImageUtils
 {

@@ -13,7 +13,7 @@ import com.slopemonitoring.common.core.domain.BaseEntity;
 /**
  * 部门表 sys_dept
  * 
- * @author isinvon
+ * @author sinvon
  */
 public class SysDept extends BaseEntity
 {

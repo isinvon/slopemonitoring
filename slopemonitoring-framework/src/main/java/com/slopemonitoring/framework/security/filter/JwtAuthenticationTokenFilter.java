@@ -19,7 +19,7 @@ import com.slopemonitoring.framework.web.service.TokenService;
 /**
  * token过滤器 验证token有效性
  * 
- * @author isinvon
+ * @author sinvon
  */
 @Component
 public class JwtAuthenticationTokenFilter extends OncePerRequestFilter

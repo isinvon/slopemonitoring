@@ -3,7 +3,7 @@ package com.slopemonitoring.common.utils.uuid;
 /**
  * ID生成器工具类
  * 
- * @author isinvon
+ * @author sinvon
  */
 public class IdUtils
 {

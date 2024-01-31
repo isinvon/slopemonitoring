@@ -12,7 +12,7 @@ import java.util.concurrent.ThreadPoolExecutor;
 /**
  * 线程池配置
  *
- * @author isinvon
+ * @author sinvon
  **/
 @Configuration
 public class ThreadPoolConfig

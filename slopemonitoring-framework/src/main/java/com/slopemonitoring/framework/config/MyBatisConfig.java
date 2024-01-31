@@ -27,7 +27,7 @@ import com.slopemonitoring.common.utils.StringUtils;
 /**
  * Mybatis支持*匹配扫描包
  * 
- * @author isinvon
+ * @author sinvon
  */
 @Configuration
 public class MyBatisConfig

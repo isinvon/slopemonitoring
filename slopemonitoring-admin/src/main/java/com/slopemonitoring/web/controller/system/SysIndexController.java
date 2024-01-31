@@ -9,7 +9,7 @@ import com.slopemonitoring.common.utils.StringUtils;
 /**
  * 首页
  *
- * @author isinvon
+ * @author sinvon
  */
 @RestController
 public class SysIndexController

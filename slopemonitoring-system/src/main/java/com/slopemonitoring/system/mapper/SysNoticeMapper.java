@@ -6,7 +6,7 @@ import com.slopemonitoring.system.domain.SysNotice;
 /**
  * 通知公告表 数据层
  * 
- * @author isinvon
+ * @author sinvon
  */
 public interface SysNoticeMapper
 {

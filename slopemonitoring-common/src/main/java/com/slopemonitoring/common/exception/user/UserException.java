@@ -5,7 +5,7 @@ import com.slopemonitoring.common.exception.base.BaseException;
 /**
  * 用户信息异常类
  * 
- * @author isinvon
+ * @author sinvon
  */
 public class UserException extends BaseException
 {

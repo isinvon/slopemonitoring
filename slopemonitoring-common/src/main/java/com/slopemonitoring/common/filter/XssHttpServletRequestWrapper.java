@@ -15,7 +15,7 @@ import com.slopemonitoring.common.utils.html.EscapeUtil;
 /**
  * XSS过滤处理
  * 
- * @author isinvon
+ * @author sinvon
  */
 public class XssHttpServletRequestWrapper extends HttpServletRequestWrapper
 {

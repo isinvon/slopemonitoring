@@ -21,7 +21,7 @@ import com.slopemonitoring.system.service.ISysDictTypeService;
 /**
  * 字典 业务层处理
  * 
- * @author isinvon
+ * @author sinvon
  */
 @Service
 public class SysDictTypeServiceImpl implements ISysDictTypeService

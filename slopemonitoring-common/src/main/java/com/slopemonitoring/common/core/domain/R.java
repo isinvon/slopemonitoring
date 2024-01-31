@@ -6,7 +6,7 @@ import com.slopemonitoring.common.constant.HttpStatus;
 /**
  * 响应信息主体
  *
- * @author isinvon
+ * @author sinvon
  */
 public class R<T> implements Serializable
 {

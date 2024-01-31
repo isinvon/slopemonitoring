@@ -7,7 +7,7 @@ import com.slopemonitoring.common.core.domain.entity.SysMenu;
 /**
  * 菜单表 数据层
  *
- * @author isinvon
+ * @author sinvon
  */
 public interface SysMenuMapper
 {

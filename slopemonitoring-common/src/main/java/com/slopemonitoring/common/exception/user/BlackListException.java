@@ -3,7 +3,7 @@ package com.slopemonitoring.common.exception.user;
 /**
  * 黑名单IP异常类
  * 
- * @author isinvon
+ * @author sinvon
  */
 public class BlackListException extends UserException
 {

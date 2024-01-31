@@ -8,7 +8,7 @@ import com.slopemonitoring.common.utils.StringUtils;
 /**
  * 操作消息提醒
  * 
- * @author isinvon
+ * @author sinvon
  */
 public class AjaxResult extends HashMap<String, Object>
 {

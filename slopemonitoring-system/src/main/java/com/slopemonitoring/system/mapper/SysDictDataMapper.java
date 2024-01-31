@@ -7,7 +7,7 @@ import com.slopemonitoring.common.core.domain.entity.SysDictData;
 /**
  * 字典表 数据层
  * 
- * @author isinvon
+ * @author sinvon
  */
 public interface SysDictDataMapper
 {

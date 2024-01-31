@@ -16,7 +16,7 @@ import com.slopemonitoring.common.utils.StringUtils;
 /**
  * 认证失败处理类 返回未授权
  * 
- * @author isinvon
+ * @author sinvon
  */
 @Component
 public class AuthenticationEntryPointImpl implements AuthenticationEntryPoint, Serializable

@@ -15,7 +15,7 @@ import com.slopemonitoring.common.xss.Xss;
 /**
  * 用户对象 sys_user
  * 
- * @author isinvon
+ * @author sinvon
  */
 public class SysUser extends BaseEntity
 {

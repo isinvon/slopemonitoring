@@ -7,7 +7,7 @@ import com.slopemonitoring.common.utils.ServletUtils;
 /**
  * 服务相关配置
  * 
- * @author isinvon
+ * @author sinvon
  */
 @Component
 public class ServerConfig

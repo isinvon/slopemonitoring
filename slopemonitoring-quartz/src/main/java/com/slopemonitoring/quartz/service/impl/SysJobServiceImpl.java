@@ -20,7 +20,7 @@ import com.slopemonitoring.quartz.util.ScheduleUtils;
 /**
  * 定时任务调度信息 服务层
  * 
- * @author isinvon
+ * @author sinvon
  */
 @Service
 public class SysJobServiceImpl implements ISysJobService

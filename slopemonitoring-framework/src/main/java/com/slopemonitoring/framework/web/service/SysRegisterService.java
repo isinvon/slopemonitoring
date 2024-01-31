@@ -21,7 +21,7 @@ import com.slopemonitoring.system.service.ISysUserService;
 /**
  * 注册校验方法
  * 
- * @author isinvon
+ * @author sinvon
  */
 @Component
 public class SysRegisterService

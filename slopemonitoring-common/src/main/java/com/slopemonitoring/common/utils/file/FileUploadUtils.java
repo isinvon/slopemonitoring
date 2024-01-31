@@ -18,7 +18,7 @@ import com.slopemonitoring.common.utils.uuid.Seq;
 /**
  * 文件上传工具类
  *
- * @author isinvon
+ * @author sinvon
  */
 public class FileUploadUtils
 {

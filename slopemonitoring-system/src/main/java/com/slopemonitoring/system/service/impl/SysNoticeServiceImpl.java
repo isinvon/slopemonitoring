@@ -10,7 +10,7 @@ import com.slopemonitoring.system.service.ISysNoticeService;
 /**
  * 公告 服务层实现
  * 
- * @author isinvon
+ * @author sinvon
  */
 @Service
 public class SysNoticeServiceImpl implements ISysNoticeService

@@ -24,7 +24,7 @@ import com.slopemonitoring.system.service.ISysDeptService;
 /**
  * 部门管理 服务实现
  * 
- * @author isinvon
+ * @author sinvon
  */
 @Service
 public class SysDeptServiceImpl implements ISysDeptService

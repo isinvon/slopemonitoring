@@ -3,7 +3,7 @@ package com.slopemonitoring.common.enums;
 /**
  * 用户状态
  * 
- * @author isinvon
+ * @author sinvon
  */
 public enum UserStatus
 {

@@ -7,7 +7,7 @@ import com.slopemonitoring.common.utils.StringUtils;
 /**
  * 字符集工具类
  * 
- * @author isinvon
+ * @author sinvon
  */
 public class CharsetKit
 {

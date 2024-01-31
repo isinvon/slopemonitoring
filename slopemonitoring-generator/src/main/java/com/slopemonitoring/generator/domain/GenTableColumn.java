@@ -7,7 +7,7 @@ import com.slopemonitoring.common.utils.StringUtils;
 /**
  * 代码生成业务字段表 gen_table_column
  * 
- * @author isinvon
+ * @author sinvon
  */
 public class GenTableColumn extends BaseEntity
 {

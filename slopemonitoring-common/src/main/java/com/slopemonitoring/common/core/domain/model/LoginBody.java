@@ -3,7 +3,7 @@ package com.slopemonitoring.common.core.domain.model;
 /**
  * 用户登录对象
  * 
- * @author isinvon
+ * @author sinvon
  */
 public class LoginBody
 {

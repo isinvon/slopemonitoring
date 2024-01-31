@@ -11,7 +11,7 @@ import com.slopemonitoring.quartz.domain.SysJob;
 /**
  * 任务执行工具
  *
- * @author isinvon
+ * @author sinvon
  */
 public class JobInvokeUtil
 {

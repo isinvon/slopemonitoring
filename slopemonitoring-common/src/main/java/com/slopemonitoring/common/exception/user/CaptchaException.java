@@ -3,7 +3,7 @@ package com.slopemonitoring.common.exception.user;
 /**
  * 验证码错误异常类
  * 
- * @author isinvon
+ * @author sinvon
  */
 public class CaptchaException extends UserException
 {

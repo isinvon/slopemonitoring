@@ -5,7 +5,7 @@ import com.slopemonitoring.common.utils.StringUtils;
 /**
  * 路由显示信息
  * 
- * @author isinvon
+ * @author sinvon
  */
 public class MetaVo
 {

@@ -9,7 +9,7 @@ import com.slopemonitoring.common.utils.spring.SpringUtils;
 /**
  * 异步任务管理器
  * 
- * @author isinvon
+ * @author sinvon
  */
 public class AsyncManager
 {

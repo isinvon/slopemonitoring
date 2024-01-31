@@ -25,7 +25,7 @@ import com.slopemonitoring.common.utils.StringUtils;
 /**
  * 通用http发送方法
  * 
- * @author isinvon
+ * @author sinvon
  */
 public class HttpUtils
 {

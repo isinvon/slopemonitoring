@@ -7,7 +7,7 @@ import com.slopemonitoring.common.utils.DateUtils;
 /**
  * JVM相关信息
  * 
- * @author isinvon
+ * @author sinvon
  */
 public class Jvm
 {

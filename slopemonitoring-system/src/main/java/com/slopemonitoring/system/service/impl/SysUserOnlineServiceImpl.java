@@ -9,7 +9,7 @@ import com.slopemonitoring.system.service.ISysUserOnlineService;
 /**
  * 在线用户 服务层处理
  * 
- * @author isinvon
+ * @author sinvon
  */
 @Service
 public class SysUserOnlineServiceImpl implements ISysUserOnlineService

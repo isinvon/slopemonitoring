@@ -3,7 +3,7 @@ package com.slopemonitoring.common.enums;
 /**
  * 数据源
  * 
- * @author isinvon
+ * @author sinvon
  */
 public enum DataSourceType
 {

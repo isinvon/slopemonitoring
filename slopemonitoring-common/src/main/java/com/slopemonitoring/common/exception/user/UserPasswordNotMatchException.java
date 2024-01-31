@@ -3,7 +3,7 @@ package com.slopemonitoring.common.exception.user;
 /**
  * 用户密码不正确或不符合规范异常类
  * 
- * @author isinvon
+ * @author sinvon
  */
 public class UserPasswordNotMatchException extends UserException
 {

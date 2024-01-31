@@ -6,7 +6,7 @@ import com.slopemonitoring.common.core.domain.entity.SysDictData;
 /**
  * 字典 业务层
  * 
- * @author isinvon
+ * @author sinvon
  */
 public interface ISysDictDataService
 {

@@ -9,7 +9,7 @@ import com.slopemonitoring.system.domain.vo.RouterVo;
 /**
  * 菜单 业务层
  * 
- * @author isinvon
+ * @author sinvon
  */
 public interface ISysMenuService
 {

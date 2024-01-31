@@ -6,7 +6,7 @@ import com.slopemonitoring.system.domain.SysOperLog;
 /**
  * 操作日志 数据层
  * 
- * @author isinvon
+ * @author sinvon
  */
 public interface SysOperLogMapper
 {

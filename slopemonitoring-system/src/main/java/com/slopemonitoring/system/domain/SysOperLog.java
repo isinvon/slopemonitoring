@@ -9,7 +9,7 @@ import com.slopemonitoring.common.core.domain.BaseEntity;
 /**
  * 操作日志记录表 oper_log
  * 
- * @author isinvon
+ * @author sinvon
  */
 public class SysOperLog extends BaseEntity
 {

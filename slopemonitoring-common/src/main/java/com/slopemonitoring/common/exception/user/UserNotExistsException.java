@@ -3,7 +3,7 @@ package com.slopemonitoring.common.exception.user;
 /**
  * 用户不存在异常类
  * 
- * @author isinvon
+ * @author sinvon
  */
 public class UserNotExistsException extends UserException
 {

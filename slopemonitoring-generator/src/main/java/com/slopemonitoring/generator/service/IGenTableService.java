@@ -7,7 +7,7 @@ import com.slopemonitoring.generator.domain.GenTable;
 /**
  * 业务 服务层
  * 
- * @author isinvon
+ * @author sinvon
  */
 public interface IGenTableService
 {

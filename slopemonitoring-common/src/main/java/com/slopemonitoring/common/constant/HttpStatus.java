@@ -3,7 +3,7 @@ package com.slopemonitoring.common.constant;
 /**
  * 返回状态码
  * 
- * @author isinvon
+ * @author sinvon
  */
 public class HttpStatus
 {

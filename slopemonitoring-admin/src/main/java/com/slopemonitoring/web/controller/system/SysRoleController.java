@@ -34,7 +34,7 @@ import com.slopemonitoring.system.service.ISysUserService;
 /**
  * 角色信息
  * 
- * @author isinvon
+ * @author sinvon
  */
 @RestController
 @RequestMapping("/system/role")

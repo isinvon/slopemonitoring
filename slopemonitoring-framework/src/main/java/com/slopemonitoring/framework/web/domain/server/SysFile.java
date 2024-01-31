@@ -3,7 +3,7 @@ package com.slopemonitoring.framework.web.domain.server;
 /**
  * 系统文件相关信息
  * 
- * @author isinvon
+ * @author sinvon
  */
 public class SysFile
 {

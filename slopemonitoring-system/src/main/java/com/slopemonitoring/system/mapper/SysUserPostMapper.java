@@ -6,7 +6,7 @@ import com.slopemonitoring.system.domain.SysUserPost;
 /**
  * 用户与岗位关联表 数据层
  * 
- * @author isinvon
+ * @author sinvon
  */
 public interface SysUserPostMapper
 {

@@ -12,7 +12,7 @@ import com.slopemonitoring.common.core.domain.BaseEntity;
 /**
  * 字典数据表 sys_dict_data
  * 
- * @author isinvon
+ * @author sinvon
  */
 public class SysDictData extends BaseEntity
 {

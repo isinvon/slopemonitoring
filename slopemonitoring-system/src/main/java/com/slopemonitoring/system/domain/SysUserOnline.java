@@ -3,7 +3,7 @@ package com.slopemonitoring.system.domain;
 /**
  * 当前在线会话
  * 
- * @author isinvon
+ * @author sinvon
  */
 public class SysUserOnline
 {

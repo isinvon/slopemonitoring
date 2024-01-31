@@ -22,7 +22,7 @@ import com.slopemonitoring.common.utils.ip.IpUtils;
 /**
  * 限流处理
  *
- * @author isinvon
+ * @author sinvon
  */
 @Aspect
 @Component

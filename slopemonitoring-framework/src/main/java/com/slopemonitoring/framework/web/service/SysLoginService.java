@@ -32,7 +32,7 @@ import com.slopemonitoring.system.service.ISysUserService;
 /**
  * 登录校验方法
  * 
- * @author isinvon
+ * @author sinvon
  */
 @Component
 public class SysLoginService

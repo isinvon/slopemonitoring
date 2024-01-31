@@ -16,7 +16,7 @@ import com.slopemonitoring.common.exception.ServiceException;
 /**
  * 安全服务工具类
  * 
- * @author isinvon
+ * @author sinvon
  */
 public class SecurityUtils
 {

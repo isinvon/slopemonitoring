@@ -6,7 +6,7 @@ import com.slopemonitoring.system.domain.SysRoleMenu;
 /**
  * 角色与菜单关联表 数据层
  * 
- * @author isinvon
+ * @author sinvon
  */
 public interface SysRoleMenuMapper
 {

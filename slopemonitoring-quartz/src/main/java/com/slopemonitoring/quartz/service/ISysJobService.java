@@ -8,7 +8,7 @@ import com.slopemonitoring.quartz.domain.SysJob;
 /**
  * 定时任务调度信息信息 服务层
  * 
- * @author isinvon
+ * @author sinvon
  */
 public interface ISysJobService
 {

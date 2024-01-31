@@ -3,7 +3,7 @@ package com.slopemonitoring.common.exception;
 /**
  * 工具类异常
  * 
- * @author isinvon
+ * @author sinvon
  */
 public class UtilException extends RuntimeException
 {

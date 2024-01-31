@@ -10,7 +10,7 @@ import com.slopemonitoring.generator.mapper.GenTableColumnMapper;
 /**
  * 业务字段 服务层实现
  * 
- * @author isinvon
+ * @author sinvon
  */
 @Service
 public class GenTableColumnServiceImpl implements IGenTableColumnService 
