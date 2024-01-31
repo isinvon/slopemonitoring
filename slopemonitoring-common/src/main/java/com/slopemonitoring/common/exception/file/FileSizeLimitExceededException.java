@@ -3,7 +3,7 @@ package com.slopemonitoring.common.exception.file;
 /**
  * 文件名大小限制异常类
  * 
- * @author sinvon
+ * @author isinvon
  */
 public class FileSizeLimitExceededException extends FileException
 {

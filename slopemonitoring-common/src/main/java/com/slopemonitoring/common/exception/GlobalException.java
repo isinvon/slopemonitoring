@@ -3,7 +3,7 @@ package com.slopemonitoring.common.exception;
 /**
  * 全局异常
  * 
- * @author sinvon
+ * @author isinvon
  */
 public class GlobalException extends RuntimeException
 {

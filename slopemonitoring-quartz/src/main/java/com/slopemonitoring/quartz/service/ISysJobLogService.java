@@ -6,7 +6,7 @@ import com.slopemonitoring.quartz.domain.SysJobLog;
 /**
  * 定时任务调度日志信息信息 服务层
  * 
- * @author sinvon
+ * @author isinvon
  */
 public interface ISysJobLogService
 {

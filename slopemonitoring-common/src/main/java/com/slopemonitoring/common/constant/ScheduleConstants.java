@@ -3,7 +3,7 @@ package com.slopemonitoring.common.constant;
 /**
  * 任务调度通用常量
  * 
- * @author sinvon
+ * @author isinvon
  */
 public class ScheduleConstants
 {

@@ -26,7 +26,7 @@ import com.slopemonitoring.system.service.ISysUserService;
 /**
  * 个人信息 业务处理
  * 
- * @author sinvon
+ * @author isinvon
  */
 @RestController
 @RequestMapping("/system/user/profile")

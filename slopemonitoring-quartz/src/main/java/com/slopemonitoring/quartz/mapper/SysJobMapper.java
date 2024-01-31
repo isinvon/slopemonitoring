@@ -6,7 +6,7 @@ import com.slopemonitoring.quartz.domain.SysJob;
 /**
  * 调度任务信息 数据层
  * 
- * @author sinvon
+ * @author isinvon
  */
 public interface SysJobMapper
 {

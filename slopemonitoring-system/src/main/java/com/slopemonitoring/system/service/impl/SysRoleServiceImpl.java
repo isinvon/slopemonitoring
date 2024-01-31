@@ -28,7 +28,7 @@ import com.slopemonitoring.system.service.ISysRoleService;
 /**
  * 角色 业务层处理
  * 
- * @author sinvon
+ * @author isinvon
  */
 @Service
 public class SysRoleServiceImpl implements ISysRoleService

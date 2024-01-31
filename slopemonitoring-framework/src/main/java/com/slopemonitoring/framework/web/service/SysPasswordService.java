@@ -16,7 +16,7 @@ import com.slopemonitoring.framework.security.context.AuthenticationContextHolde
 /**
  * 登录密码方法
  * 
- * @author sinvon
+ * @author isinvon
  */
 @Component
 public class SysPasswordService

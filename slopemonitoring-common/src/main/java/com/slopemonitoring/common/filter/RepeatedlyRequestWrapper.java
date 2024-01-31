@@ -15,7 +15,7 @@ import com.slopemonitoring.common.constant.Constants;
 /**
  * 构建可重复读取inputStream的request
  * 
- * @author sinvon
+ * @author isinvon
  */
 public class RepeatedlyRequestWrapper extends HttpServletRequestWrapper
 {

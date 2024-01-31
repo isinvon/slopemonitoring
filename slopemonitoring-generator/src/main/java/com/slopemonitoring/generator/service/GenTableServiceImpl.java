@@ -40,7 +40,7 @@ import com.slopemonitoring.generator.util.VelocityUtils;
 /**
  * 业务 服务层实现
  * 
- * @author sinvon
+ * @author isinvon
  */
 @Service
 public class GenTableServiceImpl implements IGenTableService

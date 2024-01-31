@@ -6,7 +6,7 @@ import com.slopemonitoring.system.domain.SysConfig;
 /**
  * 参数配置 服务层
  * 
- * @author sinvon
+ * @author isinvon
  */
 public interface ISysConfigService
 {

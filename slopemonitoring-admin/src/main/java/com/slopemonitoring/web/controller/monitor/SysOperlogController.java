@@ -22,7 +22,7 @@ import com.slopemonitoring.system.service.ISysOperLogService;
 /**
  * 操作日志记录
  * 
- * @author sinvon
+ * @author isinvon
  */
 @RestController
 @RequestMapping("/monitor/operlog")

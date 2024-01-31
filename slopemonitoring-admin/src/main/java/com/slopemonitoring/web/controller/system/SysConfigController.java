@@ -25,7 +25,7 @@ import com.slopemonitoring.system.service.ISysConfigService;
 /**
  * 参数配置 信息操作处理
  * 
- * @author sinvon
+ * @author isinvon
  */
 @RestController
 @RequestMapping("/system/config")

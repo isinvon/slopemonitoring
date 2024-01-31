@@ -3,7 +3,7 @@ package com.slopemonitoring.common.exception.user;
 /**
  * 用户错误最大次数异常类
  * 
- * @author sinvon
+ * @author isinvon
  */
 public class UserPasswordRetryLimitExceedException extends UserException
 {

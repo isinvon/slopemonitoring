@@ -18,7 +18,7 @@ import com.slopemonitoring.system.service.ISysUserService;
 /**
  * 用户验证处理
  *
- * @author sinvon
+ * @author isinvon
  */
 @Service
 public class UserDetailsServiceImpl implements UserDetailsService

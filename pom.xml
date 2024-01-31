@@ -180,6 +180,7 @@
         <module>slopemonitoring-quartz</module>
         <module>slopemonitoring-generator</module>
         <module>slopemonitoring-common</module>
+        <module>slopemonitoring-server</module>
     </modules>
     <packaging>pom</packaging>
 

@@ -3,7 +3,7 @@ package com.slopemonitoring.common.enums;
 /**
  * 操作人类别
  * 
- * @author sinvon
+ * @author isinvon
  */
 public enum OperatorType
 {

@@ -3,7 +3,7 @@ package com.slopemonitoring.common.exception.job;
 /**
  * 计划策略异常
  * 
- * @author sinvon
+ * @author isinvon
  */
 public class TaskException extends Exception
 {

@@ -5,7 +5,7 @@ import com.slopemonitoring.common.utils.DateUtils;
 import com.slopemonitoring.common.utils.StringUtils;
 
 /**
- * @author sinvon 序列生成类
+ * @author isinvon 序列生成类
  */
 public class Seq
 {

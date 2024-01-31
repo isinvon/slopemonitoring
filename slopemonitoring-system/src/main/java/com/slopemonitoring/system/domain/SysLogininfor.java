@@ -9,7 +9,7 @@ import com.slopemonitoring.common.core.domain.BaseEntity;
 /**
  * 系统访问记录表 sys_logininfor
  * 
- * @author sinvon
+ * @author isinvon
  */
 public class SysLogininfor extends BaseEntity
 {

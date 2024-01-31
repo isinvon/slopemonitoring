@@ -8,7 +8,7 @@ import com.slopemonitoring.common.utils.sql.SqlUtil;
 /**
  * 分页工具类
  * 
- * @author sinvon
+ * @author isinvon
  */
 public class PageUtils extends PageHelper
 {

@@ -14,7 +14,7 @@ import com.slopemonitoring.common.utils.StringUtils;
 /**
  * Repeatable 过滤器
  * 
- * @author sinvon
+ * @author isinvon
  */
 public class RepeatableFilter implements Filter
 {

@@ -10,7 +10,7 @@ import java.util.Set;
 /**
  * 登录用户身份权限
  * 
- * @author sinvon
+ * @author isinvon
  */
 public class LoginUser implements UserDetails
 {

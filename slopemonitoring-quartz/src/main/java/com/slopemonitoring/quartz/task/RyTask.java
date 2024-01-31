@@ -6,7 +6,7 @@ import com.slopemonitoring.common.utils.StringUtils;
 /**
  * 定时任务调度测试
  * 
- * @author sinvon
+ * @author isinvon
  */
 @Component("ryTask")
 public class RyTask

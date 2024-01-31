@@ -10,7 +10,7 @@ import com.slopemonitoring.framework.web.domain.Server;
 /**
  * 服务器监控
  * 
- * @author sinvon
+ * @author isinvon
  */
 @RestController
 @RequestMapping("/monitor/server")

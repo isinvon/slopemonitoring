@@ -6,7 +6,7 @@ import com.slopemonitoring.system.domain.SysConfig;
 /**
  * 参数配置 数据层
  * 
- * @author sinvon
+ * @author isinvon
  */
 public interface SysConfigMapper
 {

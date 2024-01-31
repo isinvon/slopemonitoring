@@ -12,7 +12,7 @@ import com.slopemonitoring.common.constant.Constants;
 /**
  * Redis使用FastJson序列化
  * 
- * @author sinvon
+ * @author isinvon
  */
 public class FastJson2JsonRedisSerializer<T> implements RedisSerializer<T>
 {

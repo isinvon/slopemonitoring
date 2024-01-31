@@ -6,7 +6,7 @@ import com.slopemonitoring.common.core.domain.entity.SysRole;
 /**
  * 角色表 数据层
  * 
- * @author sinvon
+ * @author isinvon
  */
 public interface SysRoleMapper
 {

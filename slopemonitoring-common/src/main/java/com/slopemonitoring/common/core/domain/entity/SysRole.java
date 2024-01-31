@@ -13,7 +13,7 @@ import com.slopemonitoring.common.core.domain.BaseEntity;
 /**
  * 角色表 sys_role
  * 
- * @author sinvon
+ * @author isinvon
  */
 public class SysRole extends BaseEntity
 {

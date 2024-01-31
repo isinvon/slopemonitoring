@@ -15,7 +15,7 @@ import com.slopemonitoring.common.utils.StringUtils;
 /**
  * Filter配置
  *
- * @author sinvon
+ * @author isinvon
  */
 @Configuration
 public class FilterConfig

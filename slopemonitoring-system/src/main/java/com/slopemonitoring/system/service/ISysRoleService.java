@@ -8,7 +8,7 @@ import com.slopemonitoring.system.domain.SysUserRole;
 /**
  * 角色业务层
  * 
- * @author sinvon
+ * @author isinvon
  */
 public interface ISysRoleService
 {

@@ -23,7 +23,7 @@ import com.slopemonitoring.system.service.ISysNoticeService;
 /**
  * 公告 信息操作处理
  * 
- * @author sinvon
+ * @author isinvon
  */
 @RestController
 @RequestMapping("/system/notice")

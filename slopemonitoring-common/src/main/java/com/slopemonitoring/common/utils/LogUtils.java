@@ -3,7 +3,7 @@ package com.slopemonitoring.common.utils;
 /**
  * 处理并记录日志文件
  * 
- * @author sinvon
+ * @author isinvon
  */
 public class LogUtils
 {

@@ -6,7 +6,7 @@ import com.slopemonitoring.system.domain.SysPost;
 /**
  * 岗位信息 数据层
  * 
- * @author sinvon
+ * @author isinvon
  */
 public interface SysPostMapper
 {

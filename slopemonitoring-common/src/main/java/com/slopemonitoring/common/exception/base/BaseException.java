@@ -6,7 +6,7 @@ import com.slopemonitoring.common.utils.StringUtils;
 /**
  * 基础异常
  * 
- * @author sinvon
+ * @author isinvon
  */
 public class BaseException extends RuntimeException
 {

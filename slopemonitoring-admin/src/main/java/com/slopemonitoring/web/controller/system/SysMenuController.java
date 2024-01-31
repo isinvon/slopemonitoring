@@ -24,7 +24,7 @@ import com.slopemonitoring.system.service.ISysMenuService;
 /**
  * 菜单信息
  * 
- * @author sinvon
+ * @author isinvon
  */
 @RestController
 @RequestMapping("/system/menu")

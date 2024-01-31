@@ -11,7 +11,7 @@ import com.slopemonitoring.common.enums.LimitType;
 /**
  * 限流注解
  * 
- * @author sinvon
+ * @author isinvon
  */
 @Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)

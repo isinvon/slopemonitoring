@@ -5,7 +5,7 @@ import com.slopemonitoring.common.exception.base.BaseException;
 /**
  * 文件信息异常类
  * 
- * @author sinvon
+ * @author isinvon
  */
 public class FileException extends BaseException
 {

@@ -12,7 +12,7 @@ import com.slopemonitoring.common.utils.http.HttpUtils;
 /**
  * 获取地址类
  * 
- * @author sinvon
+ * @author isinvon
  */
 public class AddressUtils
 {

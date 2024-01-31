@@ -7,7 +7,7 @@ import com.slopemonitoring.common.core.domain.entity.SysDictType;
 /**
  * 字典 业务层
  * 
- * @author sinvon
+ * @author isinvon
  */
 public interface ISysDictTypeService
 {

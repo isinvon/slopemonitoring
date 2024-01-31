@@ -19,7 +19,7 @@ import com.slopemonitoring.quartz.service.ISysJobLogService;
 /**
  * 抽象quartz调用
  *
- * @author sinvon
+ * @author isinvon
  */
 public abstract class AbstractQuartzJob implements Job
 {

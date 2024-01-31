@@ -6,7 +6,7 @@ import com.slopemonitoring.common.utils.StringUtils;
 /**
  * sql操作工具类
  * 
- * @author sinvon
+ * @author isinvon
  */
 public class SqlUtil
 {

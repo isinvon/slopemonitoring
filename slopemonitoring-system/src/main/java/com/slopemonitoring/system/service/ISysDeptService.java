@@ -7,7 +7,7 @@ import com.slopemonitoring.common.core.domain.entity.SysDept;
 /**
  * 部门管理 服务层
  * 
- * @author sinvon
+ * @author isinvon
  */
 public interface ISysDeptService
 {

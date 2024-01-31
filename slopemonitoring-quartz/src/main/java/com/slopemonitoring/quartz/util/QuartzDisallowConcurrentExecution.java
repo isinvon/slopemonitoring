@@ -7,7 +7,7 @@ import com.slopemonitoring.quartz.domain.SysJob;
 /**
  * 定时任务处理（禁止并发执行）
  * 
- * @author sinvon
+ * @author isinvon
  *
  */
 @DisallowConcurrentExecution

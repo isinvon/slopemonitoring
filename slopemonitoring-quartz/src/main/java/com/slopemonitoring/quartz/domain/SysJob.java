@@ -16,7 +16,7 @@ import com.slopemonitoring.quartz.util.CronUtils;
 /**
  * 定时任务调度表 sys_job
  * 
- * @author sinvon
+ * @author isinvon
  */
 public class SysJob extends BaseEntity
 {

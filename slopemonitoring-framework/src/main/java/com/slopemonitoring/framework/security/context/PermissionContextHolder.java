@@ -7,7 +7,7 @@ import com.slopemonitoring.common.core.text.Convert;
 /**
  * 权限信息
  * 
- * @author sinvon
+ * @author isinvon
  */
 public class PermissionContextHolder
 {

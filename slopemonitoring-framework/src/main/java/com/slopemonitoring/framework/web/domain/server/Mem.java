@@ -5,7 +5,7 @@ import com.slopemonitoring.common.utils.Arith;
 /**
  * 內存相关信息
  * 
- * @author sinvon
+ * @author isinvon
  */
 public class Mem
 {

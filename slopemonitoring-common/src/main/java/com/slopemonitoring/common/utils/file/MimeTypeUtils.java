@@ -3,7 +3,7 @@ package com.slopemonitoring.common.utils.file;
 /**
  * 媒体类型工具类
  * 
- * @author sinvon
+ * @author isinvon
  */
 public class MimeTypeUtils
 {

@@ -24,7 +24,7 @@ import com.slopemonitoring.common.utils.sql.SqlUtil;
 /**
  * web层通用数据处理
  * 
- * @author sinvon
+ * @author isinvon
  */
 public class BaseController
 {

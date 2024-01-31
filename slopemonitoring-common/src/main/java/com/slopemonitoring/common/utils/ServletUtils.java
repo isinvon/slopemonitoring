@@ -20,7 +20,7 @@ import com.slopemonitoring.common.core.text.Convert;
 /**
  * 客户端工具类
  * 
- * @author sinvon
+ * @author isinvon
  */
 public class ServletUtils
 {

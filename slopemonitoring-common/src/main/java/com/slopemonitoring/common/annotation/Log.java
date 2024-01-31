@@ -11,7 +11,7 @@ import com.slopemonitoring.common.enums.OperatorType;
 /**
  * 自定义操作日志记录注解
  * 
- * @author sinvon
+ * @author isinvon
  *
  */
 @Target({ ElementType.PARAMETER, ElementType.METHOD })

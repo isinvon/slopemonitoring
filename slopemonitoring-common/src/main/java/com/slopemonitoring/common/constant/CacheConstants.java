@@ -3,7 +3,7 @@ package com.slopemonitoring.common.constant;
 /**
  * 缓存的key 常量
  * 
- * @author sinvon
+ * @author isinvon
  */
 public class CacheConstants
 {

@@ -5,7 +5,7 @@ import com.slopemonitoring.common.utils.StringUtils;
 /**
  * 分页数据
  * 
- * @author sinvon
+ * @author isinvon
  */
 public class PageDomain
 {

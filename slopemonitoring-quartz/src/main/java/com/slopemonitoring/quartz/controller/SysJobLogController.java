@@ -22,7 +22,7 @@ import com.slopemonitoring.quartz.service.ISysJobLogService;
 /**
  * 调度日志操作处理
  * 
- * @author sinvon
+ * @author isinvon
  */
 @RestController
 @RequestMapping("/monitor/jobLog")

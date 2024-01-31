@@ -21,7 +21,7 @@ import com.slopemonitoring.quartz.domain.SysJob;
 /**
  * 定时任务工具类
  * 
- * @author sinvon
+ * @author isinvon
  *
  */
 public class ScheduleUtils

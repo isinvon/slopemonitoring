@@ -3,7 +3,7 @@ package com.slopemonitoring.common.enums;
 /**
  * 操作状态
  * 
- * @author sinvon
+ * @author isinvon
  *
  */
 public enum BusinessStatus

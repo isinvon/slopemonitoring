@@ -13,7 +13,7 @@ import com.slopemonitoring.framework.security.context.PermissionContextHolder;
 /**
  * RuoYi首创 自定义权限实现，ss取自SpringSecurity首字母
  * 
- * @author sinvon
+ * @author isinvon
  */
 @Service("ss")
 public class PermissionService

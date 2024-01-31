@@ -6,7 +6,7 @@ import com.slopemonitoring.system.domain.SysUserOnline;
 /**
  * 在线用户 服务层
  * 
- * @author sinvon
+ * @author isinvon
  */
 public interface ISysUserOnlineService
 {

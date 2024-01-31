@@ -7,7 +7,7 @@ import com.slopemonitoring.common.utils.spring.SpringUtils;
 /**
  * 获取i18n资源文件
  * 
- * @author sinvon
+ * @author isinvon
  */
 public class MessageUtils
 {

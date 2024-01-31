@@ -5,7 +5,7 @@ import com.slopemonitoring.common.utils.StringUtils;
 /**
  * 转义和反转义工具类
  * 
- * @author sinvon
+ * @author isinvon
  */
 public class EscapeUtil
 {

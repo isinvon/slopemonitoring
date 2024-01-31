@@ -12,7 +12,7 @@ import com.slopemonitoring.common.utils.poi.ExcelHandlerAdapter;
 /**
  * 自定义导出Excel数据注解
  * 
- * @author sinvon
+ * @author isinvon
  */
 @Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.FIELD)

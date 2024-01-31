@@ -7,7 +7,7 @@ import com.slopemonitoring.common.constant.Constants;
 /**
  * VelocityEngine工厂
  * 
- * @author sinvon
+ * @author isinvon
  */
 public class VelocityInitializer
 {

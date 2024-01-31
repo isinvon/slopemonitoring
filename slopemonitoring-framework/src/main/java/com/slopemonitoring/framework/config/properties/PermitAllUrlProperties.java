@@ -21,7 +21,7 @@ import com.slopemonitoring.common.annotation.Anonymous;
 /**
  * 设置Anonymous注解允许匿名访问的url
  * 
- * @author sinvon
+ * @author isinvon
  */
 @Configuration
 public class PermitAllUrlProperties implements InitializingBean, ApplicationContextAware

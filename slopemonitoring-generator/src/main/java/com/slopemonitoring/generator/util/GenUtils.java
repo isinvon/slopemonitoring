@@ -11,7 +11,7 @@ import com.slopemonitoring.generator.domain.GenTableColumn;
 /**
  * 代码生成器 工具类
  * 
- * @author sinvon
+ * @author isinvon
  */
 public class GenUtils
 {

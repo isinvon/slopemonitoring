@@ -3,7 +3,7 @@ package com.slopemonitoring.common.enums;
 /**
  * 限流类型
  *
- * @author sinvon
+ * @author isinvon
  */
 
 public enum LimitType

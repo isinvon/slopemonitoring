@@ -14,7 +14,7 @@ import com.slopemonitoring.system.service.ISysConfigService;
 /**
  * 注册验证
  * 
- * @author sinvon
+ * @author isinvon
  */
 @RestController
 public class SysRegisterController extends BaseController

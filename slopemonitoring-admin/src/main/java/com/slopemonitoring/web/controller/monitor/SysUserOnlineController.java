@@ -26,7 +26,7 @@ import com.slopemonitoring.system.service.ISysUserOnlineService;
 /**
  * 在线用户监控
  * 
- * @author sinvon
+ * @author isinvon
  */
 @RestController
 @RequestMapping("/monitor/online")

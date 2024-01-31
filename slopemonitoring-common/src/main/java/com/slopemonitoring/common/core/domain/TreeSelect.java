@@ -10,7 +10,7 @@ import com.slopemonitoring.common.core.domain.entity.SysMenu;
 /**
  * Treeselect树结构实体类
  * 
- * @author sinvon
+ * @author isinvon
  */
 public class TreeSelect implements Serializable
 {
